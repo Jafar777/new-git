@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(255, 84, 53);
+}
+.container{
+
+}
+.half{
+    display: flex;
+    gap: 20px;
+}
+.half1{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 650px;
+    height: 100px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.fourth{
+    display: flex;
+    gap: 20px;
+}
+.fourth1{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 315px;
+    height: 100px;
+    margin-top: 20px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-top: 1px solid white;
+}
+.third{
+    display: flex;
+    gap: 20px;
+}
+.third1{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 427px;
+    height: 100px;
+    margin-top: 20px;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.third2{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 427px;
+    height: 100px;
+    margin-top: 20px;
+    border-bottom: 1px solid white;
+}
+.third3{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 427px;
+    height: 100px;
+    margin-top: 20px;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.full{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 1320px;
+    height: 100px;
+    margin-top: 20px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-top: 1px solid white;
+}
+.sixth{
+    display: flex;
+    gap: 20px;
+}
+.sixth1{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 203.2px;
+    height: 100px;
+    margin-top: 20px;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.sixth2{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 203.2px;
+    height: 100px;
+    margin-top: 20px;
+    border-bottom: 1px solid white;
+}
+.sixth3{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 203.2px;
+    height: 100px;
+    margin-top: 20px;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.sixth4{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 203.2px;
+    height: 100px;
+    margin-top: 20px;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.sixth5{
+    background-color: rgba(255, 100, 73, 0.788);
+    width: 203.2px;
+    height: 100px;
+    margin-top: 20px;
+    border-bottom: 1px solid white;
+}
+.sixth6{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 203.2px;
+    height: 100px;
+    margin-top: 20px;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.double{
+    display: flex;
+    gap: 20px;
+}
+.double1{
+    background-color: rgb(255, 100, 73, 0.788);
+    width: 650px;
+    height: 100px;
+    margin-top: 20px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-top: 1px solid white;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
